@@ -15,4 +15,5 @@ body = createClassStateless render
     DOM.div []
             [ createElement title unit []
             , DOM.text "Body"
+            , DOM.text "FUUUUU"
             ]
